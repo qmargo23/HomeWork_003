@@ -150,7 +150,7 @@ public class Main {
         // Masha(67 760) Denis(83 690) Christina(76 230) salary  indexRise  payRise improve
         float salaryMasha = 67_760f;// текущая зарплата Маши
         //System.out.println(salaryMasha);
-        float salaryDenis = 83_690f;//текущая зарплата Денисв
+        float salaryDenis = 83_690f;//текущая зарплата Дениса
         float salaryChristina = 76_230f;//текущая зарплата Кристины
         float indexRise = 10f;// индекс повышение зарплаты
 
